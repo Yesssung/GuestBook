@@ -1,4 +1,4 @@
-package himedia.dao;
+package himedia.vo;
 
 import java.util.Date;
 

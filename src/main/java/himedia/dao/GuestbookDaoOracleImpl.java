@@ -10,6 +10,8 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
+import himedia.vo.GuestbookVo;
+
 public class GuestbookDaoOracleImpl implements GuestbookDao {
 	private String dbuser;
 	private String dbpass;
